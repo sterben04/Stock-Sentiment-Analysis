@@ -4,7 +4,7 @@ Created on Sat Sep 26 16:35:29 2020
 
 @author: Aravind K A
 """
-
+python==3.7.3
 Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
